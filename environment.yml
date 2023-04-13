@@ -9,6 +9,7 @@ dependencies:
   #- sqlite3
   - sqlalchemy
   - squarify
+  - mpl_extra
   #- psutil
   #- toolz
   #- dill
