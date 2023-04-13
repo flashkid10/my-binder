@@ -4,19 +4,19 @@ channels:
 dependencies:
   - python=3.11
   - numpy
-  - psutil
-  - toolz
+  #- psutil
+  #- toolz
   - matplotlib
-  - dill
+  #- dill
   - pandas
-  - partd
-  - bokeh
-  - dask
-  - entrypoints
+  #- partd
+  #- bokeh
+  #- dask
+  #- entrypoints
   #- jsonschema
-  - six
-  - typing
-  - ipython
-  - altair>=2.2.0
-  - vega_datasets
-  - jupyterlab>=0.32.0
+  #- six
+  #- typing
+  #- ipython
+  #- altair>=2.2.0
+  #- vega_datasets
+  #- jupyterlab>=0.32.0
