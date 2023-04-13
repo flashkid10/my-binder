@@ -1,0 +1,152 @@
+ID,Name,Type,Alignment,Gender,Race,Class Breakdown,Links,Campaign Type
+1,Talia Winters,Inactive,Lawful Good,Female,EEPC.Genasi.Water,PHB.Cleric.Tempest Domain: 5,,Oneshot
+2,Sylla Salvo,Inactive,Lawful Neutral,Female,HGtV.Selkies,HGtV.Rogue.Dreadmask: 1,,PHP Campaign
+3,JD (Jin),Active,Neutral Evil,GN (F),ERLW.Changeling,PHB.Rogue.Arcane Trickster: 7,,Campaign
+4,Short Samurai Jack,Inactive,Neutral Good,Female,PHB.Halfling.Stout,"PHB.Fighter.Battle Master: 5, XGE.Rogue.Swashbuckler: 3",,Oneshot
+5,Grubby the Christmas Elf,Plan,Chaotic Evil,Male,ERLW.Goblin,XGE.Rogue.Scout: 3,,
+6,Lilliana Wickerbloom,Inactive,Neutral Good,Female,MOT.Satyr,PHB.Cleric.Life Domain: 14,,Oneshot
+7,Sylla Seeker,Plan,Neutral Good,Female,VRGR.Dhampir,TCE.Rogue.Soulknife: 3,,
+8,Mara Sh'val,Plan,Lawful Good,Female,EEPC.Genasi.Fire,XGE.Barbarian.Path of the Zealot: 3,Sh'val Family,
+9,Elaina Sh'val,Plan,Lawful Good,Female,EEPC.Genasi.Earth,PHB.Cleric.Order Domain: 3,Sh'val Family,
+10,Lionel Kingston,Plan,Lawful Good,Female,PHB.Human.Variant,TCE.Fighter.Rune Knight: 3,,
+11,Amelia Mori,Plan,Chaotic Good,Female,PHB.Human,EGW.Wizard.Chronurgy Magic: 3,,
+12,Dasani Kingsley,Plan,True Neutral,Female,EEPC.Genasi.Water,XGE.Rogue.Swashbuckler: 3,,
+13.1,Miao Mao,Plan,Chaotic Neutral,Female,VSS.Near-Human.Stoneborn,TCE.Ranger.Swarmkeeper: 4,Liadove Evensense,NPC
+14,Tellamac Telk T los,Plan,Lawful Good,Male,TTP.Tortle,PHB.Cleric.Tempest Domain: 5,,
+15,"Anastasia ""Anya"" Romanov",Plan,Lawful Neutral,Female,VRGR.Dhampir,"VRGR.Warlock.The Undead: 2, EGW.Fighter.Echo Knight: 1",,
+16,Liza Sodoc,Plan,True Neutral,Female,WBtW.Fairy,PHB.Bard.College of Lore: 3,,
+17,Kalvin Clay,Plan,Lawful Good,Male,PHB.Half-Orc,PHB.Fighter.Eldritch Knight: 3,,
+18,Puffy Brawnhorn,Plan,Lawful Good,Female,VGM.Firbolg,PHB.Paladin: 3,,
+19,Midnight Torrent,Plan,Lawful Neutral,Female,EEPC.Genasi.Water,PHB.Cleric.Grave Domain: 3,Torrent Family,
+20,Twilight Torrent,Plan,Lawful Neutral,Female,EEPC.Genasi.Water,PHB.Cleric.Twilight Domain: 3,Torrent Family,
+21,Koal,Plan,Neutral Evil,Female,VGM.Kobold,PHB.Fighter.Battle Master: 3,,
+22,Akko,Plan,True Neutral,Female,MPMM.Kobold,TCE.Warlock.The Genie: 3,,
+23,Adrar Carve,Plan,Lawful Neutral,Female,ERLW.Hobgoblin,PHB.Barbarian.Path of the Totem Warrior: 3,,
+24,Ming Hua,Plan,Neutral Evil,Female,EEPC.Genasi.Water,Unknown: 1,,
+25,Charmy Stonejaw,Plan,Neutral Good,Female,PHB.Dwarf.Mountain,XGE.Cleric.Forge Domain: 3,,
+26,Table,Plan,True Neutral,GN (M),ERLW.Warforged,TCE.Fighter.Rune Knight: 3,,
+27,Snowdrop Jellyhop,Active,Lawful Evil,Female,WBtW.Fairy,PHB.Cleric.Tempest Domain: 5,,PHP Campaign
+28,Junko Daichi,Plan,Lawful Evil,Female,VGM.Yuan-ti Pureblood,CotD.Rogue.Stormscale: 5,Luther Cromwell,NPC
+29,Green Stone,Plan,True Neutral,GN (M),ERLW.Warforged,Unknown: 1,,
+30,Smoltair,Plan,True Neutral,Male,SCAG.Halfling.Ghostwise,PHB.Rogue.Assassin: 3,,
+31,Moses,Plan,True Neutral,Female,VSS.Spirithost,XGE.Sorcerer.Divine Soul: 3,,
+32,Asral Thelmore,Plan,Lawful Good,Female,PHB.Human,PHG.Fighter.Arcane Archer: 3,,
+33,Ava Longstrider,Plan,Neutral Good,Female,WGE.Elf.Wood.Aereni,TCE.Paladin.Oath of the Watchers: 4,Liadove Evensense,
+34,Traci Crunch,Plan,Chaotic Good,Female,TCE.Custom Lineage,VSS.Martyr.Burden of Mercy: 3,,
+35,Cob Web,Plan,Neutral Good,Female,WBtW.Fairy,Unknown: 1,,
+36.1,"Liadove Evensense, OG",Active,Chaotic Neutral,Female,PHB.Half-Elf,"PHB.Bard.College of Lore: 4, VSS.Sorcerer.Mirrorkin: 1",Evensense Family,Campaign
+36.2,"Liadove Evensense, Sorc",Active,Chaotic Neutral,Female,PHB.Half-Elf,"PHB.Bard.College of Lore: 4, VSS.Sorcerer.Mirrorkin: 3",Evensense Family,Campaign
+36.3,AngyDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Barbarian: 6,Evensense Family,
+36.4,Eldove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Warlock: 6,Evensense Family,
+36.5,FightaDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Fighter: 6,Evensense Family,
+36.6,HolyDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Cleric: 6,Evensense Family,
+36.7,PallaDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Paladin: 6,Evensense Family,
+36.8,Snekadove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Rogue: 6,Evensense Family,
+36.9,WizaDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Wizard: 6,Evensense Family,
+37,Quirel Felor,Plan,Lawful Neutral,Female,MTF.Elf.Shadar-kai,TCE.Rogue.Phantom: 16,Liadove Evensense,NPC
+38,Diana 'Dia' Lockard,Plan,Lawful Good,Female,VGM.Tabaxi,XGE.Fighter.Samurai: 3,,
+39,Chise Hatori,Plan,Neutral Good,Female,FTD.Dragonborn.Gem.Emerald,HB.Vessel.Altered Mage: 3,,
+40,Ezda Widdross,Plan,Lawful Evil,Female,AAG.Plasmoid,EGW.Fighter.Echo Knight: 3,,
+41,Kocia Pierdocia,Plan,True Neutral,Female,VGM.Tabaxi,CR.Blood Hunter.Order of the Lycan: 5,Junko Daichi,NPC
+42,FrostLass,Plan,True Neutral,Female,EEPC.Genasi.Water,PHB.Cleric.Grave Domain: 3,,
+43,Hedvika Klaus,Plan,True Neutral,GN (N),ERLW.Warforged,TCE.Fighter.Rune Knight: 10,Junko Daichi,NPC
+44,Artress White,Plan,Lawful Neutral,Female,VGM.Tabaxi,PHB.Wizard.School of Illusion: 16,Liadove Evensense,NPC
+45,Cabrera Mortes,Plan,True Neutral,GN (F),ERLW.Changeling,"PHB.Cleric.Twilight Domain: 1, XGE.Barbarian.Path of the Ancestral Guardian: 2",,
+46,Noodle,Plan,True Neutral,Female,TCE.Custom Lineage,PHB.Monk.Way of Shadow: 3,,
+47,Reagan Riley,Plan,Chaotic Neutral,Female,PHB.Dwarf.Mountain,TCE.Artificer.Armorer: 3,,
+48,Elaina Sh'val,Plan,Lawful Evil,GN (F),VSS.Geppettin.Bisque,VSS.Witch.Black Magic: 3,,
+49,Ella,Plan,Chaotic Evil,Female,VSS.Geppettin.Bisque,VSS.Witch: 3,,
+50,Eleanor,Plan,Lawful Evil,GN (F),ERLW.Warforged,VSS.Witch.Steel Magic: 3,,
+51,Eleanora Dela Rolla,Plan,Lawful Evil,Female,PHB.Human,VSS.Witch.Blood Magic: 3,,
+52,Daeva,Plan,True Neutral,GN (F),ERLW.Warforged,VSS.Martyr.Burden of Tyranny: 3,,
+53,Oshima,Plan,Lawful Neutral,Female,PHB.Human,VSS.Necromancer.Reaper: 3,,
+54,Eilra Ashstar,Plan,Lawful Good,Female,VGM.Firbolg,XGE.Druid.Circle of the Shepherd: 4,Liadove Evensense,NPC
+55,Ilakio Hidecarver Agu-Vavea,Plan,Lawful Neutral,Female,VGM.Goliath,VSS.Necromancer.Pharaoh: 3,,
+56,Karl Kleavers,Plan,True Neutral,Male,VRGR.Reborn,VSS.Necromancer.Reanimator: 3,,
+57,Tilli Lawl,Plan,Lawful Neutral,Female,ERLW.Goblin,VSS.Alchemist.Mutagenist: 3,Iam'th Lawl,NPC
+58,Alva Lawl,Plan,Lawful Neutral,Female,ERLW.Goblin,VSS.Alchemist.Xenoalchemist: 3,Iam'th Lawl,NPC
+59,Enza Lawl,Plan,Lawful Neutral,Male,ERLW.Goblin,VSS.Alchemist.Ooze Rancher: 3,Iam'th Lawl,NPC
+60,Weonan Heavyhoof,Plan,Lawful Neutral,Male,MOT.Minotaur,VSS.Gunslinger.Gun Tank: 3,,
+61,Iam'th Lawl,Plan,Lawful Neutral,Female,ERLW.Goblin,VSS.Gunslinger.White Hat: 7,Junko Daichi,NPC
+62,Aga Lawl,Plan,Lawful Neutral,Female,ERLW.Goblin,VSS.Warmage.House of Pawns: 3,Iam'th Lawl,NPC
+63,Thalisa,Plan,Neutral Good,Female,EEPC.Genasi.Water,TCE.Bard.College of Eloquence: 3,,
+64,Maria Tempest,Plan,Lawful Neutral,Female,VSS.Near-Human.Mul,VSS.Warden.Bloodwrath Guardian: 7,Junko Daichi,NPC
+65,Dalia Demera,Plan,Lawful Neutral,Female,VSS.Near-Human,VSS.Warmage.House of Lancers: 3,Junko Daichi,NPC
+66,Dalkia,Plan,Neutral Evil,GN (F),VSS.Geppettin.Bisque,VSS.Rogue.Titan Slayer: 3,,
+67,Anarcha,Plan,Neutral Good,GN (F),ERLW.Warforged,VSS.Wizard.Magic Missile Mage: 3,,
+68,Tsuyu,Plan,True Neutral,GN (F),ERLW.Changeling,VSS.Sorcerer.Mirrorkin: 3,,
+69,Titanya,Plan,True Neutral,GN (F),ERLW.Changeling,VSS.Bard.College of Masks: 3,,
+70,Kioxia Kanon,Plan,Neutral Good,Female,VGM.Tabaxi,VSS.Sorcerer.Reincarnated Hero: 3,,
+71,Spinel,Plan,Chaotic Neutral,Female,EEPC.Genasi.Earth,VSS.Sorcerer.Toon Magic: 3,,
+72,Luther Cromwell,Plan,Chaotic Neutral,Male,MTF.Elf.Shadar-kai,PHB.Wizard.School of Abjuration: 20,Liadove Evensense,NPC
+73,Leodane Evensense,Plan,Lawful Neutral,Male,PHB.Human.Variant,CR.Paladin.Oath of the Open Sea: 5,Evensense Family,NPC
+74,Katelyn Evensense,Plan,Chaotic Neutral,Female,PHB.Human.Variant,PHB.Wizard.School of Abjuration: 2,Evensense Family,NPC
+75,Onva Cullen,Plan,True Neutral,Female,PHB.Elf,Unknown: 1,,
+76,Faran Balanced,Plan,Lawful Good,Female,PHB.Human.Variant,TCE.Sorcerer.Clockwork Soul: 3,,
+77,Leocan Ashshard,Active,Neutral Good,Male,PHB.Elf.Wood,PHB.Cleric.Life Domain: 5,,Campaign
+78,Kojo Stonestar,Inactive,Chaotic Good,Female,PHB.Dwarf.Hill,PHB.Cleric.Light Domain: 8,,Oneshot
+79,Nero Stonestar,Plan,Chaotic Good,Female,PHB.Dwarf.Hill,Unknown: 1,,
+80,Zigress,Inactive,Lawful Good,Female,GGR.Vedalken,PHB.Cleric.Grave Domain: 9,Zigress Family,Oneshot
+81,Zlegaiss,Plan,Lawful Good,Female,GGR.Vedalken,PHB.Wizard: 3,Zigress Family,
+82,Ozen the Immovable,Plan,Neutral Evil,Female,TCE.Custom Lineage,"PHB.Monk: 2, PHB.Barbarian: 1",,
+83,Horatio Seacoal,Plan,Lawful Good,Male,AAG.Giff,XGE.Fighter.Samurai: 3,,
+84,Zurdan,Plan,Neutral Good,Female,VGM.Bugbear,"PHB.Barbarian: 1, PHB.Rogue: 1, PHB.Fighter: 1",,
+85,Isona Copperboots,Plan,Lawful Good,Female,PHB.Gnome.Forest,VSS.Paladin.Oath of the Sun: 3,,
+86,Jujuku Kamordah,Plan,Lawful Good,Female,PHB.Human.Variant,GH:PG.Cleric.Inquisition Domain: 3,Concurrent Classes,
+87,"Ava, Paladin",Plan,Lawful Good,Female,MPMM.Aasimar,XGE.Paladin.Oath of Conquest: 3,Concurrent Classes,
+88,"Avaline, Poet",Plan,Neutral Good,Female,MPMM.Aasimar,TCE.Bard.College of Eloquence: 3,Concurrent Classes,
+89,"Avaline Enroar, King",Plan,Chaotic Good,Female,MPMM.Aasimar,VSS.Martyr.Burden of Tyranny: 3,Concurrent Classes,
+90,Vakgar,Plan,Lawful Neutral,Male,PHB.Half-Orc,DMG.Cleric.Death Domain: 3,,
+91,Luness Kuu,Plan,Lawful Neutral,Female,PHB.Human,"PHB.Cleric.Light Domain: 3, CR.Cleric.Moon Domain: 3, TCE.Cleric.Twilight Domain: 3",Concurrent Classes,
+92,Fable,Plan,Lawful Neutral,Female,PHB.Human,CR.Cleric.Moon Domain: 3,,
+93,Atou Sludge,Plan,Lawful Evil,Female,VRGR.Dhampir,TCE.Warlock.The Fathomless: 3,,
+94,Yzma Senifet,Plan,Lawful Neutral,Female,PHB.Human,DMG.Cleric.Death Domain: 3,,
+95,Ana'nis,Plan,Chaotic Good,Female,Point_Hat.Brownie,"PHB.Cleric.Light Domain: 3, XGE.Cleric.Grave Domain: 3",Concurrent Classes,
+96,Endra Kay,Plan,Chaotic Good,GN (N),ERLW.Kalashtar,GH:PG.Cleric.Eldritch Domain: 3,,
+97,Tremble,Plan,Lawful Neutral,Male,AAG.Thri-kreen,GH:PG.Fighter.Living Crucible: 3,,
+98,Ignet Crescentia,Plan,Lawful Evil,Female,TCE.Custom Lineage,GH:PG.Cleric.Inquisition Domain: 3,,
+99,Yulessa Davara,Plan,Neutral Good,Female,TCE.Custom Lineage,TCE.Warlock.The Genie: 3,,
+100,Leo Cornelia,Plan,Lawful Good,Female,PHB.Human.Variant,XGE.Paladin.Oath of Conquest: 3,,
+101,Claudette Bernadette,Plan,Lawful Evil,Female,PHB.Human.Variant,XGE.Paladin.Oath of Conquest: 3,,
+102.1,Adeline Twaddle (Oneshot),Inactive,Lawful Good,Female,PHB.Human.Variant,CR.Blood Hunter.Order of the Lycan: 5,,Oneshot
+103,Dr. Davina Livesey,Plan,Lawful Good,Female,PHB.Human.Variant,PHB.Barbarian.Path of the Totem Warrior: 3,,
+102.2,Adeline Twaddle,Plan,Lawful Good,Female,PSI.Human.Innistrad,CR.Blood Hunter.Order of the Lycan: 3,,
+104,Takeo Bro,Plan,Lawful Good,Male,PHB.Human.Variant,"TCE.Bard.College of Eloquence: 18, PHB.Wizard.School of Divination: 2",Cool Bro,
+105,Jacaranda,Plan,True Neutral,GN (F),SCPC.Awakened Blight,TCE.Cleric.Twilight Domain: 3,,
+106,Dopu Bopu,Plan,Lawful Good,Male,Basils Brews.Domovoi,TCE.Artificer.Armorer: 3,,
+107,Bella Donna,Plan,True Neutral,Female,HCKOG.Kitsune.Rage,CR.Blood Hunter.Order of the Lycan: 3,,
+108,Cheska Dovel,Plan,Neutral Good,Female,Sisalik.Sisalik,EGW.Wizard.Chronurgy Magic: 3,,
+109,Dimarca Dimitri Alexander,Plan,Chaotic Good,Female,MTF.Tiefling.Mephistopheles,HB.Cleric.Garlic Bread Domain: 3,,
+110,Oceth Nadrish,Plan,True Neutral,Female,FTD.Dragonborn.Gem.Sapphire,TGS1.Sorcerer.Frost Magic: 3,,
+111,Shi'na Kenath,Plan,True Neutral,Female,PHB.Elf.Drow,XGE.Warlock.The Hexblade: 3,,
+112,Farel Vasti,Plan,True Neutral,Female,WGE.Elf.Wood.Aereni,TCE.Wizard.Bladesinging: 3,,
+113,Valxina Fore,Plan,True Neutral,Female,EGW.Elf.Pallid,TCE.Wizard.Bladesinging: 3,,
+114,Lori Silverspring,Plan,True Neutral,Female,WBtW.Fairy,PHB.Warlock.The Archfey: 3,,
+115,Liao Slatecleaver,Plan,True Neutral,Female,PHB.Human.Variant,XGE.Warlock.The Hexblade: 3,,
+116,Delmerru Jaom,Plan,True Neutral,Female,PHB.Human.Variant,CR.Wizard.Blood Magic: 3,,
+117,Nafnelri Windsword,Plan,True Neutral,Female,PHB.Human.Variant,PHB.Wizard.School of Necromancy: 3,,
+118,Jao Xang,Plan,True Neutral,Female,MPMM.Eladrin,XGE.Wizard.War Magic: 3,,
+119,Velvet Patch,Plan,True Neutral,Female,VGM.Tabaxi,TCE.Cleric.Peace Domain: 3,,
+120,Swampy Marsy,Plan,Chaotic Neutral,Female,SCPC.Awakened Blight,Unknown: 1,,
+121,Betty Boop,Plan,Chaotic Neutral,Female,GH:PG.Dreamer,VSS.Sorcerer.Toon Magic: 3,,
+122,Betty Lou Lyan,Plan,Chaotic Neutral,Female,PHB.Human.Variant,TCE.Artificer.Battle Smith: 3,,
+123,Dancer,Plan,True Neutral,Female,PHB.Elf.Wood,TGS1.Bard.College of Dance: 3,,
+125.1,Crombie Alibusier,Plan,True Neutral,Female,VGM.Triton,TGS1.Cleric.Astral Domain: 3,,
+124,Mocksi,Plan,True Neutral,Female,EGW.Elf.Pallid,TGS1.Paladin.Oath of the Hearth: 3,,
+125,Warlock.The Astral Griffon,Plan,True Neutral,Female,PHB.Human.Variant,TGS1.Warlock.The Astral Griffon: 3,,
+125.2,Crombie Alibusier - Oneshot,Inactive,True Neutral,Female,VGM.Triton,"TCE.Cleric.Twilight Domain: 4, PHB.Cleric.Tempest Domain: 4",,Oneshot
+126,Timothy Anderson,Inactive,True Neutral,Male,PHB.Human.Variant,CR.Blood Hunter.Order of the Lycan: 15,,Oneshot
+127,Holly Horse,Inactive,True Neutral,Female,PHB.Human.Variant,CR.Blood Hunter.Order of the Profane Soul.The Hexblade: 15,,Oneshot
+128,Brandon Benson,Plan,True Neutral,Male,PHB.Human.Variant,CR.Blood Hunter.Order of the Profane Soul.The Hexblade: 3,,
+129,Ma Baker,Plan,True Neutral,Female,MTF.Tiefling.Levistus,CotD.Bard.College of Playful Mockery: 3,,
+130,Alaria Spidfor,Inactive,Lawful Good,Female,FTD.Dragonborn.Gem.Amethyst,XGE.Paladin.Oath of Conquest: 3,,PHP Campaign
+131,ChuChu Train,Plan,True Neutral,Female,PHB.Human.Variant,PHB.Monk.Way of the Open Hand: 3,,
+132,Obscura,Plan,True Neutral,Female,DMG.Goblin,PHB.Cleric.Twilight Domain: 3,Obscura,
+13.2,Xiao Mao,Inactive,Neutral Evil,Female,PHB.Human.Variant,PHB.Cleric.Twilight Domain: 8,,Oneshot
+133,Maria Hillwood,Plan,True Neutral,Female,PHB.Human,Barbarian.Path of the Rage Mage: 3,Evensense Family,NPC
+134,Nathaniel Harten,Plan,Neutral Good,Male,PHB.Human.Variant,"XGE.Paladin.Oath of Conquest: 3, HB.Rogue.Kinslayer: 3",Concurrent Classes,
+135,Sonic,Inactive,Neutral Good,Male,PHB.Human,HB.Monk.Way of the Speedster: 20,,Oneshot
+136,Tall 'Kelp' Green,Plan,Neutral Good,GN (F),TEB.Deepling,HGtV.Monk.Way of the Dancing Current: 7,,Oneshot
+137,Esina Kadu,Plan,Neutral Good,GN (F),PHB.Elf.Wood,XGE.Ranger.Horizon Walker: 3,,
+138,Ozen Agethea Rootwalker,Active,Neutral Good,GN (F),VGM.Goliath,XGE.Barbarian.Path of the Ancestral Guardian: 3,,Campaign
+139,Kenna McCormick,Inactive,Neutral Good,GN (N),PHB.Human.Variant,TCE.Cleric.Order Domain: 1,,Oneshot
