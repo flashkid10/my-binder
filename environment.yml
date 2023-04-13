@@ -9,6 +9,7 @@ dependencies:
   #- sqlite3
   - sqlalchemy
   - squarify
+  - plotly
   #- matplotlib-extra
   #- psutil
   #- toolz
