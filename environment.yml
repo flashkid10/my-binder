@@ -6,7 +6,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sqlite3
+  #- sqlite3
+  - sqlalchemy
   - squarify
   #- psutil
   #- toolz
