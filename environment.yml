@@ -13,7 +13,7 @@ dependencies:
   - bokeh
   - dask
   - entrypoints
-  - jsonschema
+  #- jsonschema
   - six
   - typing
   - ipython
