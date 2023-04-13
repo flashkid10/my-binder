@@ -1,152 +1,152 @@
 Source,Class,Sub-Class,Tag1,Tag2,Tag3,C_Count,L_Count
-Unknown,Unknown,,,Unknown,Unknown,,
-VSS,Alchemist,,VSS.Alchemist,VSS.Alchemist,Alchemist,,
-VSS,Alchemist,Amorist,VSS.Alchemist,VSS.Alchemist.Amorist,Alchemist.Amorist,,
-VSS,Alchemist,Apothecary,VSS.Alchemist,VSS.Alchemist.Apothecary,Alchemist.Apothecary,,
-VSS,Alchemist,Dynamo Engineer,VSS.Alchemist,VSS.Alchemist.Dynamo Engineer,Alchemist.Dynamo Engineer,,
-VSS,Alchemist,Mad Bomber,VSS.Alchemist,VSS.Alchemist.Mad Bomber,Alchemist.Mad Bomber,,
-VSS,Alchemist,Mutagenist,VSS.Alchemist,VSS.Alchemist.Mutagenist,Alchemist.Mutagenist,,
-VSS,Alchemist,Ooze Rancher,VSS.Alchemist,VSS.Alchemist.Ooze Rancher,Alchemist.Ooze Rancher,,
-VSS,Alchemist,Venomsmith,VSS.Alchemist,VSS.Alchemist.Venomsmith,Alchemist.Venomsmith,,
-VSS,Alchemist,Xenoalchemist,VSS.Alchemist,VSS.Alchemist.Xenoalchemist,Alchemist.Xenoalchemist,,
-TCE,Artificer,,TCE.Artificer,TCE.Artificer,Artificer,,
-TCE,Artificer,Alchemist,TCE.Artificer,TCE.Artificer.Alchemist,Artificer.Alchemist,,
-TCE,Artificer,Armorer,TCE.Artificer,TCE.Artificer.Armorer,Artificer.Armorer,,
-TCE,Artificer,Artillerist,TCE.Artificer,TCE.Artificer.Artillerist,Artificer.Artillerist,,
-TCE,Artificer,Battle Smith,TCE.Artificer,TCE.Artificer.Battle Smith,Artificer.Battle Smith,,
-PHB,Barbarian,,PHB.Barbarian,PHB.Barbarian,Barbarian,,
-PHB,Barbarian,Path of the Berserker,PHB.Barbarian,PHB.Barbarian.Path of the Berserker,Barbarian.Path of the Berserker,,
-PHB,Barbarian,Path of the Totem Warrior,PHB.Barbarian,PHB.Barbarian.Path of the Totem Warrior,Barbarian.Path of the Totem Warrior,,
-CR,Barbarian,Path of the Juggernaut,CR.Barbarian,CR.Barbarian.Path of the Juggernaut,Barbarian.Path of the Juggernaut,,
-SCAG,Barbarian,Path of the Battlerager,SCAG.Barbarian,SCAG.Barbarian.Path of the Battlerager,Barbarian.Path of the Battlerager,,
-TCE,Barbarian,Path of the Beast,TCE.Barbarian,TCE.Barbarian.Path of the Beast,Barbarian.Path of the Beast,,
-TCE,Barbarian,Path of Wild Magic,TCE.Barbarian,TCE.Barbarian.Path of Wild Magic,Barbarian.Path of Wild Magic,,
-VSS,Barbarian,Path of Heavy Metal,VSS.Barbarian,VSS.Barbarian.Path of Heavy Metal,Barbarian.Path of Heavy Metal,,
-VSS,Barbarian,Path of the Colossus,VSS.Barbarian,VSS.Barbarian.Path of the Colossus,Barbarian.Path of the Colossus,,
-VSS,Barbarian,Path of the Fin,VSS.Barbarian,VSS.Barbarian.Path of the Fin,Barbarian.Path of the Fin,,
-VSS,Barbarian,Path of the Muscle Wizard,VSS.Barbarian,VSS.Barbarian.Path of the Muscle Wizard,Barbarian.Path of the Muscle Wizard,,
-VSS,Barbarian,Path of the Rage Mage,VSS.Barbarian,VSS.Barbarian.Path of the Rage Mage,Barbarian.Path of the Rage Mage,,
-VSS,Barbarian,Path of Tranquility,VSS.Barbarian,VSS.Barbarian.Path of Tranquility,Barbarian.Path of Tranquility,,
-XGE,Barbarian,Path of the Ancestral Guardian,XGE.Barbarian,XGE.Barbarian.Path of the Ancestral Guardian,Barbarian.Path of the Ancestral Guardian,,
-XGE,Barbarian,Path of the Storm Herald,XGE.Barbarian,XGE.Barbarian.Path of the Storm Herald,Barbarian.Path of the Storm Herald,,
-XGE,Barbarian,Path of the Zealot,XGE.Barbarian,XGE.Barbarian.Path of the Zealot,Barbarian.Path of the Zealot,,
-PHB,Bard,,PHB.Bard,PHB.Bard,Bard,,
-PHB,Bard,College of Lore,PHB.Bard,PHB.Bard.College of Lore,Bard.College of Lore,,
-PHB,Bard,College of Valor,PHB.Bard,PHB.Bard.College of Valor,Bard.College of Valor,,
-CR,Bard,College of Tragedy,CR.Bard,CR.Bard.College of Tragedy,Bard.College of Tragedy,,
-TCE,Bard,College of Creation,TCE.Bard,TCE.Bard.College of Creation,Bard.College of Creation,,
-TCE,Bard,College of Eloquence,TCE.Bard,TCE.Bard.College of Eloquence,Bard.College of Eloquence,,
-VRGR,Bard,College of Spirits,VRGR.Bard,VRGR.Bard.College of Spirits,Bard.College of Spirits,,
-VSS,Bard,College of Cantors,VSS.Bard,VSS.Bard.College of Cantors,Bard.College of Cantors,,
-VSS,Bard,College of Graffiti,VSS.Bard,VSS.Bard.College of Graffiti,Bard.College of Graffiti,,
-VSS,Bard,College of Jesters,VSS.Bard,VSS.Bard.College of Jesters,Bard.College of Jesters,,
-VSS,Bard,College of Masks,VSS.Bard,VSS.Bard.College of Masks,Bard.College of Masks,,
-VSS,Bard,College of Romance,VSS.Bard,VSS.Bard.College of Romance,Bard.College of Romance,,
-VSS,Bard,College of the Mad God,VSS.Bard,VSS.Bard.College of the Mad God,Bard.College of the Mad God,,
-XGE,Bard,College of Glamour,XGE.Bard,XGE.Bard.College of Glamour,Bard.College of Glamour,,
-XGE,Bard,College of Swords,XGE.Bard,XGE.Bard.College of Swords,Bard.College of Swords,,
-XGE,Bard,College of Whispers,XGE.Bard,XGE.Bard.College of Whispers,Bard.College of Whispers,,
-CR,Blood Hunter,,CR.Blood Hunter,CR.Blood Hunter,Blood Hunter,,
-CR,Blood Hunter,Order of the Ghostslayer,CR.Blood Hunter,CR.Blood Hunter.Order of the Ghostslayer,Blood Hunter.Order of the Ghostslayer,,
-CR,Blood Hunter,Order of the Lycan,CR.Blood Hunter,CR.Blood Hunter.Order of the Lycan,Blood Hunter.Order of the Lycan,,
-CR,Blood Hunter,Order of the Mutant,CR.Blood Hunter,CR.Blood Hunter.Order of the Mutant,Blood Hunter.Order of the Mutant,,
-CR,Blood Hunter,Order of the Profane Soul,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul,Blood Hunter.Order of the Profane Soul,,
-CR,Blood Hunter,Order of the Profane Soul.The Archfey,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Archfey,Blood Hunter.Order of the Profane Soul.The Archfey,,
-CR,Blood Hunter,Order of the Profane Soul.The Celestial,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Celestial,Blood Hunter.Order of the Profane Soul.The Celestial,,
-CR,Blood Hunter,Order of the Profane Soul.The Fathomless,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Fathomless,Blood Hunter.Order of the Profane Soul.The Fathomless,,
-CR,Blood Hunter,Order of the Profane Soul.The Fiend,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Fiend,Blood Hunter.Order of the Profane Soul.The Fiend,,
-CR,Blood Hunter,Order of the Profane Soul.The Genie,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Genie,Blood Hunter.Order of the Profane Soul.The Genie,,
-CR,Blood Hunter,Order of the Profane Soul.The Great Old One,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Great Old One,Blood Hunter.Order of the Profane Soul.The Great Old One,,
-CR,Blood Hunter,Order of the Profane Soul.The Hexblade,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Hexblade,Blood Hunter.Order of the Profane Soul.The Hexblade,,
-CR,Blood Hunter,Order of the Profane Soul.The Undead,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Undead,Blood Hunter.Order of the Profane Soul.The Undead,,
-CR,Blood Hunter,Order of the Profane Soul.The Undying,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Undying,Blood Hunter.Order of the Profane Soul.The Undying,,
-VSS,Captain,,VSS.Captain,VSS.Captain,Captain,,
-VSS,Captain,Dragon Banner,VSS.Captain,VSS.Captain.Dragon Banner,Captain.Dragon Banner,,
-VSS,Captain,Eagle Banner,VSS.Captain,VSS.Captain.Eagle Banner,Captain.Eagle Banner,,
-VSS,Captain,Jolly Roger Banner,VSS.Captain,VSS.Captain.Jolly Roger Banner,Captain.Jolly Roger Banner,,
-VSS,Captain,Lion Banner,VSS.Captain,VSS.Captain.Lion Banner,Captain.Lion Banner,,
-VSS,Captain,Ram Banner,VSS.Captain,VSS.Captain.Ram Banner,Captain.Ram Banner,,
-VSS,Captain,Raven Banner,VSS.Captain,VSS.Captain.Raven Banner,Captain.Raven Banner,,
-VSS,Captain,Turtle Banner,VSS.Captain,VSS.Captain.Turtle Banner,Captain.Turtle Banner,,
-PHB,Cleric,,PHB.Cleric,PHB.Cleric,Cleric,,
-CR,Cleric,Blood Domain,CR.Cleric,CR.Cleric.Blood Domain,Cleric.Blood Domain,,
-CR,Cleric,Moon Domain,CR.Cleric,CR.Cleric.Moon Domain,Cleric.Moon Domain,,
-DMG,Cleric,Death Domain,DMG.Cleric,DMG.Cleric.Death Domain,Cleric.Death Domain,,
-PHB,Cleric,Knowledge Domain,PHB.Cleric,PHB.Cleric.Knowledge Domain,Cleric.Knowledge Domain,,
-PHB,Cleric,Life Domain,PHB.Cleric,PHB.Cleric.Life Domain,Cleric.Life Domain,,
-PHB,Cleric,Light Domain,PHB.Cleric,PHB.Cleric.Light Domain,Cleric.Light Domain,,
-PHB,Cleric,Nature Domain,PHB.Cleric,PHB.Cleric.Nature Domain,Cleric.Nature Domain,,
-PHB,Cleric,Tempest Domain,PHB.Cleric,PHB.Cleric.Tempest Domain,Cleric.Tempest Domain,,
-PHB,Cleric,Trickery Domain,PHB.Cleric,PHB.Cleric.Trickery Domain,Cleric.Trickery Domain,,
-PHB,Cleric,War Domain,PHB.Cleric,PHB.Cleric.War Domain,Cleric.War Domain,,
-SCAG,Cleric,Arcana Domain,SCAG.Cleric,SCAG.Cleric.Arcana Domain,Cleric.Arcana Domain,,
-TCE,Cleric,Order Domain,TCE.Cleric,TCE.Cleric.Order Domain,Cleric.Order Domain,,
-TCE,Cleric,Peace Domain,TCE.Cleric,TCE.Cleric.Peace Domain,Cleric.Peace Domain,,
-TCE,Cleric,Twilight Domain,TCE.Cleric,TCE.Cleric.Twilight Domain,Cleric.Twilight Domain,,
-VSS,Cleric,Destruction Domain,VSS.Cleric,VSS.Cleric.Destruction Domain,Cleric.Destruction Domain,,
-VSS,Cleric,Madness Domain,VSS.Cleric,VSS.Cleric.Madness Domain,Cleric.Madness Domain,,
-VSS,Cleric,Pestilence Domain,VSS.Cleric,VSS.Cleric.Pestilence Domain,Cleric.Pestilence Domain,,
-VSS,Cleric,Rum Domain,VSS.Cleric,VSS.Cleric.Rum Domain,Cleric.Rum Domain,,
-VSS,Cleric,Travel Domain,VSS.Cleric,VSS.Cleric.Travel Domain,Cleric.Travel Domain,,
-VSS,Cleric,Wealth Domain,VSS.Cleric,VSS.Cleric.Wealth Domain,Cleric.Wealth Domain,,
-XGE,Cleric,Forge Domain,XGE.Cleric,XGE.Cleric.Forge Domain,Cleric.Forge Domain,,
-XGE,Cleric,Grave Domain,XGE.Cleric,XGE.Cleric.Grave Domain,Cleric.Grave Domain,,
-VSS,Craftsman,,VSS.Craftsman,VSS.Craftsman,Craftsman,,
-VSS,Craftsman,Arcane Maesters' Guild,VSS.Craftsman,VSS.Craftsman.Arcane Maesters' Guild,Craftsman.Arcane Maesters' Guild,,
-VSS,Craftsman,Armigers’ Guild,VSS.Craftsman,VSS.Craftsman.Armigers’ Guild,Craftsman.Armigers’ Guild,,
-VSS,Craftsman,Bladeworkers' Guild,VSS.Craftsman,VSS.Craftsman.Bladeworkers' Guild,Craftsman.Bladeworkers' Guild,,
-VSS,Craftsman,Calibarons’ Guild,VSS.Craftsman,VSS.Craftsman.Calibarons’ Guild,Craftsman.Calibarons’ Guild,,
-VSS,Craftsman,Forgeknight’s Guild,VSS.Craftsman,VSS.Craftsman.Forgeknight’s Guild,Craftsman.Forgeknight’s Guild,,
-VSS,Craftsman,Mechanauts’ Guild,VSS.Craftsman,VSS.Craftsman.Mechanauts’ Guild,Craftsman.Mechanauts’ Guild,,
-VSS,Craftsman,Thunderlords’ Guild,VSS.Craftsman,VSS.Craftsman.Thunderlords’ Guild,Craftsman.Thunderlords’ Guild,,
-VSS,Craftsman,Trapper’s Guild,VSS.Craftsman,VSS.Craftsman.Trapper’s Guild,Craftsman.Trapper’s Guild,,
-PHB,Druid,,PHB.Druid,PHB.Druid,Druid,,
-PHB,Druid,Circle of the Land,PHB.Druid,PHB.Druid.Circle of the Land,Druid.Circle of the Land,,
-PHB,Druid,Circle of the Land.Arctic,PHB.Druid,PHB.Druid.Circle of the Land.Arctic,Druid.Circle of the Land.Arctic,,
-PHB,Druid,Circle of the Land.Coast,PHB.Druid,PHB.Druid.Circle of the Land.Coast,Druid.Circle of the Land.Coast,,
-PHB,Druid,Circle of the Land.Desert,PHB.Druid,PHB.Druid.Circle of the Land.Desert,Druid.Circle of the Land.Desert,,
-PHB,Druid,Circle of the Land.Forest,PHB.Druid,PHB.Druid.Circle of the Land.Forest,Druid.Circle of the Land.Forest,,
-PHB,Druid,Circle of the Land.Grassland,PHB.Druid,PHB.Druid.Circle of the Land.Grassland,Druid.Circle of the Land.Grassland,,
-PHB,Druid,Circle of the Land.Mountain,PHB.Druid,PHB.Druid.Circle of the Land.Mountain,Druid.Circle of the Land.Mountain,,
-PHB,Druid,Circle of the Land.Swamp,PHB.Druid,PHB.Druid.Circle of the Land.Swamp,Druid.Circle of the Land.Swamp,,
-PHB,Druid,Circle of the Land.Underdark,PHB.Druid,PHB.Druid.Circle of the Land.Underdark,Druid.Circle of the Land.Underdark,,
-PHB,Druid,Circle of the Moon,PHB.Druid,PHB.Druid.Circle of the Moon,Druid.Circle of the Moon,,
-CR,Druid,Circle of the Blighted,CR.Druid,CR.Druid.Circle of the Blighted,Druid.Circle of the Blighted,,
-TCE,Druid,Circle of Spores,TCE.Druid,TCE.Druid.Circle of Spores,Druid.Circle of Spores,,
-TCE,Druid,Circle of Stars,TCE.Druid,TCE.Druid.Circle of Stars,Druid.Circle of Stars,,
-TCE,Druid,Circle of Wildfire,TCE.Druid,TCE.Druid.Circle of Wildfire,Druid.Circle of Wildfire,,
-VSS,Druid,Circle of Stones,VSS.Druid,VSS.Druid.Circle of Stones,Druid.Circle of Stones,,
-VSS,Druid,Circle of the City,VSS.Druid,VSS.Druid.Circle of the City,Druid.Circle of the City,,
-VSS,Druid,Circle of the Deep,VSS.Druid,VSS.Druid.Circle of the Deep,Druid.Circle of the Deep,,
-VSS,Druid,Circle of the Fist,VSS.Druid,VSS.Druid.Circle of the Fist,Druid.Circle of the Fist,,
-VSS,Druid,Circle of the Wyrm,VSS.Druid,VSS.Druid.Circle of the Wyrm,Druid.Circle of the Wyrm,,
-VSS,Druid,Circle of Vermin,VSS.Druid,VSS.Druid.Circle of Vermin,Druid.Circle of Vermin,,
-XGE,Druid,Circle of Dreams,XGE.Druid,XGE.Druid.Circle of Dreams,Druid.Circle of Dreams,,
-XGE,Druid,Circle of the Shepherd,XGE.Druid,XGE.Druid.Circle of the Shepherd,Druid.Circle of the Shepherd,,
-PHB,Fighter,,PHB.Fighter,PHB.Fighter,Fighter,,
-EGW,Fighter,Echo Knight,EGW.Fighter,EGW.Fighter.Echo Knight,Fighter.Echo Knight,,
-PHB,Fighter,Battle Master,PHB.Fighter,PHB.Fighter.Battle Master,Fighter.Battle Master,,
-PHB,Fighter,Champion,PHB.Fighter,PHB.Fighter.Champion,Fighter.Champion,,
-PHB,Fighter,Eldritch Knight,PHB.Fighter,PHB.Fighter.Eldritch Knight,Fighter.Eldritch Knight,,
-SCAG,Fighter,Purple Dragon Knight (Banneret),SCAG.Fighter,SCAG.Fighter.Purple Dragon Knight (Banneret),Fighter.Purple Dragon Knight (Banneret),,
-TCE,Fighter,Psi Warrior,TCE.Fighter,TCE.Fighter.Psi Warrior,Fighter.Psi Warrior,,
-TCE,Fighter,Rune Knight,TCE.Fighter,TCE.Fighter.Rune Knight,Fighter.Rune Knight,,
-VSS,Fighter,Bone Knight,VSS.Fighter,VSS.Fighter.Bone Knight,Fighter.Bone Knight,,
-VSS,Fighter,Brawler,VSS.Fighter,VSS.Fighter.Brawler,Fighter.Brawler,,
-VSS,Fighter,Celestial Lancer,VSS.Fighter,VSS.Fighter.Celestial Lancer,Fighter.Celestial Lancer,,
-VSS,Fighter,Corsair,VSS.Fighter,VSS.Fighter.Corsair,Fighter.Corsair,,
-VSS,Fighter,Dungeoneer,VSS.Fighter,VSS.Fighter.Dungeoneer,Fighter.Dungeoneer,,
-VSS,Fighter,Mage Hand Magus,VSS.Fighter,VSS.Fighter.Mage Hand Magus,Fighter.Mage Hand Magus,,
-XGE,Fighter,Arcane Archer,XGE.Fighter,XGE.Fighter.Arcane Archer,Fighter.Arcane Archer,,
-XGE,Fighter,Cavalier,XGE.Fighter,XGE.Fighter.Cavalier,Fighter.Cavalier,,
-XGE,Fighter,Samurai,XGE.Fighter,XGE.Fighter.Samurai,Fighter.Samurai,,
-CR,Fighter,Gunslinger,CR.Fighter,CR.Fighter.Gunslinger,Fighter.Gunslinger,,
-VSS,Gunslinger,,VSS.Gunslinger,VSS.Gunslinger,Gunslinger,,
-VSS,Gunslinger,Gun Tank,VSS.Gunslinger,VSS.Gunslinger.Gun Tank,Gunslinger.Gun Tank,,
-VSS,Gunslinger,Gun-Ko Master,VSS.Gunslinger,VSS.Gunslinger.Gun-Ko Master,Gunslinger.Gun-Ko Master,,
-VSS,Gunslinger,High Roller,VSS.Gunslinger,VSS.Gunslinger.High Roller,Gunslinger.High Roller,,
-VSS,Gunslinger,Musketeer,VSS.Gunslinger,VSS.Gunslinger.Musketeer,Gunslinger.Musketeer,,
-VSS,Gunslinger,Pistolero,VSS.Gunslinger,VSS.Gunslinger.Pistolero,Gunslinger.Pistolero,,
-VSS,Gunslinger,Sharpshooter,VSS.Gunslinger,VSS.Gunslinger.Sharpshooter,Gunslinger.Sharpshooter,,
-VSS,Gunslinger,Spellslinger,VSS.Gunslinger,VSS.Gunslinger.Spellslinger,Gunslinger.Spellslinger,,
-VSS,Gunslinger,Trick Shot,VSS.Gunslinger,VSS.Gunslinger.Trick Shot,Gunslinger.Trick Shot,,
+Unknown,Unknown,,,Unknown,Unknown,0,0
+VSS,Alchemist,,VSS.Alchemist,VSS.Alchemist,Alchemist,0,0
+VSS,Alchemist,Amorist,VSS.Alchemist,VSS.Alchemist.Amorist,Alchemist.Amorist,0,0
+VSS,Alchemist,Apothecary,VSS.Alchemist,VSS.Alchemist.Apothecary,Alchemist.Apothecary,0,0
+VSS,Alchemist,Dynamo Engineer,VSS.Alchemist,VSS.Alchemist.Dynamo Engineer,Alchemist.Dynamo Engineer,0,0
+VSS,Alchemist,Mad Bomber,VSS.Alchemist,VSS.Alchemist.Mad Bomber,Alchemist.Mad Bomber,0,0
+VSS,Alchemist,Mutagenist,VSS.Alchemist,VSS.Alchemist.Mutagenist,Alchemist.Mutagenist,0,0
+VSS,Alchemist,Ooze Rancher,VSS.Alchemist,VSS.Alchemist.Ooze Rancher,Alchemist.Ooze Rancher,0,0
+VSS,Alchemist,Venomsmith,VSS.Alchemist,VSS.Alchemist.Venomsmith,Alchemist.Venomsmith,0,0
+VSS,Alchemist,Xenoalchemist,VSS.Alchemist,VSS.Alchemist.Xenoalchemist,Alchemist.Xenoalchemist,0,0
+TCE,Artificer,,TCE.Artificer,TCE.Artificer,Artificer,0,0
+TCE,Artificer,Alchemist,TCE.Artificer,TCE.Artificer.Alchemist,Artificer.Alchemist,0,0
+TCE,Artificer,Armorer,TCE.Artificer,TCE.Artificer.Armorer,Artificer.Armorer,0,0
+TCE,Artificer,Artillerist,TCE.Artificer,TCE.Artificer.Artillerist,Artificer.Artillerist,0,0
+TCE,Artificer,Battle Smith,TCE.Artificer,TCE.Artificer.Battle Smith,Artificer.Battle Smith,0,0
+PHB,Barbarian,,PHB.Barbarian,PHB.Barbarian,Barbarian,0,0
+PHB,Barbarian,Path of the Berserker,PHB.Barbarian,PHB.Barbarian.Path of the Berserker,Barbarian.Path of the Berserker,0,0
+PHB,Barbarian,Path of the Totem Warrior,PHB.Barbarian,PHB.Barbarian.Path of the Totem Warrior,Barbarian.Path of the Totem Warrior,0,0
+CR,Barbarian,Path of the Juggernaut,CR.Barbarian,CR.Barbarian.Path of the Juggernaut,Barbarian.Path of the Juggernaut,0,0
+SCAG,Barbarian,Path of the Battlerager,SCAG.Barbarian,SCAG.Barbarian.Path of the Battlerager,Barbarian.Path of the Battlerager,0,0
+TCE,Barbarian,Path of the Beast,TCE.Barbarian,TCE.Barbarian.Path of the Beast,Barbarian.Path of the Beast,0,0
+TCE,Barbarian,Path of Wild Magic,TCE.Barbarian,TCE.Barbarian.Path of Wild Magic,Barbarian.Path of Wild Magic,0,0
+VSS,Barbarian,Path of Heavy Metal,VSS.Barbarian,VSS.Barbarian.Path of Heavy Metal,Barbarian.Path of Heavy Metal,0,0
+VSS,Barbarian,Path of the Colossus,VSS.Barbarian,VSS.Barbarian.Path of the Colossus,Barbarian.Path of the Colossus,0,0
+VSS,Barbarian,Path of the Fin,VSS.Barbarian,VSS.Barbarian.Path of the Fin,Barbarian.Path of the Fin,0,0
+VSS,Barbarian,Path of the Muscle Wizard,VSS.Barbarian,VSS.Barbarian.Path of the Muscle Wizard,Barbarian.Path of the Muscle Wizard,0,0
+VSS,Barbarian,Path of the Rage Mage,VSS.Barbarian,VSS.Barbarian.Path of the Rage Mage,Barbarian.Path of the Rage Mage,0,0
+VSS,Barbarian,Path of Tranquility,VSS.Barbarian,VSS.Barbarian.Path of Tranquility,Barbarian.Path of Tranquility,0,0
+XGE,Barbarian,Path of the Ancestral Guardian,XGE.Barbarian,XGE.Barbarian.Path of the Ancestral Guardian,Barbarian.Path of the Ancestral Guardian,0,0
+XGE,Barbarian,Path of the Storm Herald,XGE.Barbarian,XGE.Barbarian.Path of the Storm Herald,Barbarian.Path of the Storm Herald,0,0
+XGE,Barbarian,Path of the Zealot,XGE.Barbarian,XGE.Barbarian.Path of the Zealot,Barbarian.Path of the Zealot,0,0
+PHB,Bard,,PHB.Bard,PHB.Bard,Bard,0,0
+PHB,Bard,College of Lore,PHB.Bard,PHB.Bard.College of Lore,Bard.College of Lore,0,0
+PHB,Bard,College of Valor,PHB.Bard,PHB.Bard.College of Valor,Bard.College of Valor,0,0
+CR,Bard,College of Tragedy,CR.Bard,CR.Bard.College of Tragedy,Bard.College of Tragedy,0,0
+TCE,Bard,College of Creation,TCE.Bard,TCE.Bard.College of Creation,Bard.College of Creation,0,0
+TCE,Bard,College of Eloquence,TCE.Bard,TCE.Bard.College of Eloquence,Bard.College of Eloquence,0,0
+VRGR,Bard,College of Spirits,VRGR.Bard,VRGR.Bard.College of Spirits,Bard.College of Spirits,0,0
+VSS,Bard,College of Cantors,VSS.Bard,VSS.Bard.College of Cantors,Bard.College of Cantors,0,0
+VSS,Bard,College of Graffiti,VSS.Bard,VSS.Bard.College of Graffiti,Bard.College of Graffiti,0,0
+VSS,Bard,College of Jesters,VSS.Bard,VSS.Bard.College of Jesters,Bard.College of Jesters,0,0
+VSS,Bard,College of Masks,VSS.Bard,VSS.Bard.College of Masks,Bard.College of Masks,0,0
+VSS,Bard,College of Romance,VSS.Bard,VSS.Bard.College of Romance,Bard.College of Romance,0,0
+VSS,Bard,College of the Mad God,VSS.Bard,VSS.Bard.College of the Mad God,Bard.College of the Mad God,0,0
+XGE,Bard,College of Glamour,XGE.Bard,XGE.Bard.College of Glamour,Bard.College of Glamour,0,0
+XGE,Bard,College of Swords,XGE.Bard,XGE.Bard.College of Swords,Bard.College of Swords,0,0
+XGE,Bard,College of Whispers,XGE.Bard,XGE.Bard.College of Whispers,Bard.College of Whispers,0,0
+CR,Blood Hunter,,CR.Blood Hunter,CR.Blood Hunter,Blood Hunter,0,0
+CR,Blood Hunter,Order of the Ghostslayer,CR.Blood Hunter,CR.Blood Hunter.Order of the Ghostslayer,Blood Hunter.Order of the Ghostslayer,0,0
+CR,Blood Hunter,Order of the Lycan,CR.Blood Hunter,CR.Blood Hunter.Order of the Lycan,Blood Hunter.Order of the Lycan,0,0
+CR,Blood Hunter,Order of the Mutant,CR.Blood Hunter,CR.Blood Hunter.Order of the Mutant,Blood Hunter.Order of the Mutant,0,0
+CR,Blood Hunter,Order of the Profane Soul,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul,Blood Hunter.Order of the Profane Soul,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Archfey,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Archfey,Blood Hunter.Order of the Profane Soul.The Archfey,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Celestial,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Celestial,Blood Hunter.Order of the Profane Soul.The Celestial,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Fathomless,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Fathomless,Blood Hunter.Order of the Profane Soul.The Fathomless,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Fiend,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Fiend,Blood Hunter.Order of the Profane Soul.The Fiend,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Genie,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Genie,Blood Hunter.Order of the Profane Soul.The Genie,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Great Old One,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Great Old One,Blood Hunter.Order of the Profane Soul.The Great Old One,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Hexblade,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Hexblade,Blood Hunter.Order of the Profane Soul.The Hexblade,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Undead,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Undead,Blood Hunter.Order of the Profane Soul.The Undead,0,0
+CR,Blood Hunter,Order of the Profane Soul.The Undying,CR.Blood Hunter,CR.Blood Hunter.Order of the Profane Soul.The Undying,Blood Hunter.Order of the Profane Soul.The Undying,0,0
+VSS,Captain,,VSS.Captain,VSS.Captain,Captain,0,0
+VSS,Captain,Dragon Banner,VSS.Captain,VSS.Captain.Dragon Banner,Captain.Dragon Banner,0,0
+VSS,Captain,Eagle Banner,VSS.Captain,VSS.Captain.Eagle Banner,Captain.Eagle Banner,0,0
+VSS,Captain,Jolly Roger Banner,VSS.Captain,VSS.Captain.Jolly Roger Banner,Captain.Jolly Roger Banner,0,0
+VSS,Captain,Lion Banner,VSS.Captain,VSS.Captain.Lion Banner,Captain.Lion Banner,0,0
+VSS,Captain,Ram Banner,VSS.Captain,VSS.Captain.Ram Banner,Captain.Ram Banner,0,0
+VSS,Captain,Raven Banner,VSS.Captain,VSS.Captain.Raven Banner,Captain.Raven Banner,0,0
+VSS,Captain,Turtle Banner,VSS.Captain,VSS.Captain.Turtle Banner,Captain.Turtle Banner,0,0
+PHB,Cleric,,PHB.Cleric,PHB.Cleric,Cleric,0,0
+CR,Cleric,Blood Domain,CR.Cleric,CR.Cleric.Blood Domain,Cleric.Blood Domain,0,0
+CR,Cleric,Moon Domain,CR.Cleric,CR.Cleric.Moon Domain,Cleric.Moon Domain,0,0
+DMG,Cleric,Death Domain,DMG.Cleric,DMG.Cleric.Death Domain,Cleric.Death Domain,0,0
+PHB,Cleric,Knowledge Domain,PHB.Cleric,PHB.Cleric.Knowledge Domain,Cleric.Knowledge Domain,0,0
+PHB,Cleric,Life Domain,PHB.Cleric,PHB.Cleric.Life Domain,Cleric.Life Domain,0,0
+PHB,Cleric,Light Domain,PHB.Cleric,PHB.Cleric.Light Domain,Cleric.Light Domain,0,0
+PHB,Cleric,Nature Domain,PHB.Cleric,PHB.Cleric.Nature Domain,Cleric.Nature Domain,0,0
+PHB,Cleric,Tempest Domain,PHB.Cleric,PHB.Cleric.Tempest Domain,Cleric.Tempest Domain,0,0
+PHB,Cleric,Trickery Domain,PHB.Cleric,PHB.Cleric.Trickery Domain,Cleric.Trickery Domain,0,0
+PHB,Cleric,War Domain,PHB.Cleric,PHB.Cleric.War Domain,Cleric.War Domain,0,0
+SCAG,Cleric,Arcana Domain,SCAG.Cleric,SCAG.Cleric.Arcana Domain,Cleric.Arcana Domain,0,0
+TCE,Cleric,Order Domain,TCE.Cleric,TCE.Cleric.Order Domain,Cleric.Order Domain,0,0
+TCE,Cleric,Peace Domain,TCE.Cleric,TCE.Cleric.Peace Domain,Cleric.Peace Domain,0,0
+TCE,Cleric,Twilight Domain,TCE.Cleric,TCE.Cleric.Twilight Domain,Cleric.Twilight Domain,0,0
+VSS,Cleric,Destruction Domain,VSS.Cleric,VSS.Cleric.Destruction Domain,Cleric.Destruction Domain,0,0
+VSS,Cleric,Madness Domain,VSS.Cleric,VSS.Cleric.Madness Domain,Cleric.Madness Domain,0,0
+VSS,Cleric,Pestilence Domain,VSS.Cleric,VSS.Cleric.Pestilence Domain,Cleric.Pestilence Domain,0,0
+VSS,Cleric,Rum Domain,VSS.Cleric,VSS.Cleric.Rum Domain,Cleric.Rum Domain,0,0
+VSS,Cleric,Travel Domain,VSS.Cleric,VSS.Cleric.Travel Domain,Cleric.Travel Domain,0,0
+VSS,Cleric,Wealth Domain,VSS.Cleric,VSS.Cleric.Wealth Domain,Cleric.Wealth Domain,0,0
+XGE,Cleric,Forge Domain,XGE.Cleric,XGE.Cleric.Forge Domain,Cleric.Forge Domain,0,0
+XGE,Cleric,Grave Domain,XGE.Cleric,XGE.Cleric.Grave Domain,Cleric.Grave Domain,0,0
+VSS,Craftsman,,VSS.Craftsman,VSS.Craftsman,Craftsman,0,0
+VSS,Craftsman,Arcane Maesters' Guild,VSS.Craftsman,VSS.Craftsman.Arcane Maesters' Guild,Craftsman.Arcane Maesters' Guild,0,0
+VSS,Craftsman,Armigers’ Guild,VSS.Craftsman,VSS.Craftsman.Armigers’ Guild,Craftsman.Armigers’ Guild,0,0
+VSS,Craftsman,Bladeworkers' Guild,VSS.Craftsman,VSS.Craftsman.Bladeworkers' Guild,Craftsman.Bladeworkers' Guild,0,0
+VSS,Craftsman,Calibarons’ Guild,VSS.Craftsman,VSS.Craftsman.Calibarons’ Guild,Craftsman.Calibarons’ Guild,0,0
+VSS,Craftsman,Forgeknight’s Guild,VSS.Craftsman,VSS.Craftsman.Forgeknight’s Guild,Craftsman.Forgeknight’s Guild,0,0
+VSS,Craftsman,Mechanauts’ Guild,VSS.Craftsman,VSS.Craftsman.Mechanauts’ Guild,Craftsman.Mechanauts’ Guild,0,0
+VSS,Craftsman,Thunderlords’ Guild,VSS.Craftsman,VSS.Craftsman.Thunderlords’ Guild,Craftsman.Thunderlords’ Guild,0,0
+VSS,Craftsman,Trapper’s Guild,VSS.Craftsman,VSS.Craftsman.Trapper’s Guild,Craftsman.Trapper’s Guild,0,0
+PHB,Druid,,PHB.Druid,PHB.Druid,Druid,0,0
+PHB,Druid,Circle of the Land,PHB.Druid,PHB.Druid.Circle of the Land,Druid.Circle of the Land,0,0
+PHB,Druid,Circle of the Land.Arctic,PHB.Druid,PHB.Druid.Circle of the Land.Arctic,Druid.Circle of the Land.Arctic,0,0
+PHB,Druid,Circle of the Land.Coast,PHB.Druid,PHB.Druid.Circle of the Land.Coast,Druid.Circle of the Land.Coast,0,0
+PHB,Druid,Circle of the Land.Desert,PHB.Druid,PHB.Druid.Circle of the Land.Desert,Druid.Circle of the Land.Desert,0,0
+PHB,Druid,Circle of the Land.Forest,PHB.Druid,PHB.Druid.Circle of the Land.Forest,Druid.Circle of the Land.Forest,0,0
+PHB,Druid,Circle of the Land.Grassland,PHB.Druid,PHB.Druid.Circle of the Land.Grassland,Druid.Circle of the Land.Grassland,0,0
+PHB,Druid,Circle of the Land.Mountain,PHB.Druid,PHB.Druid.Circle of the Land.Mountain,Druid.Circle of the Land.Mountain,0,0
+PHB,Druid,Circle of the Land.Swamp,PHB.Druid,PHB.Druid.Circle of the Land.Swamp,Druid.Circle of the Land.Swamp,0,0
+PHB,Druid,Circle of the Land.Underdark,PHB.Druid,PHB.Druid.Circle of the Land.Underdark,Druid.Circle of the Land.Underdark,0,0
+PHB,Druid,Circle of the Moon,PHB.Druid,PHB.Druid.Circle of the Moon,Druid.Circle of the Moon,0,0
+CR,Druid,Circle of the Blighted,CR.Druid,CR.Druid.Circle of the Blighted,Druid.Circle of the Blighted,0,0
+TCE,Druid,Circle of Spores,TCE.Druid,TCE.Druid.Circle of Spores,Druid.Circle of Spores,0,0
+TCE,Druid,Circle of Stars,TCE.Druid,TCE.Druid.Circle of Stars,Druid.Circle of Stars,0,0
+TCE,Druid,Circle of Wildfire,TCE.Druid,TCE.Druid.Circle of Wildfire,Druid.Circle of Wildfire,0,0
+VSS,Druid,Circle of Stones,VSS.Druid,VSS.Druid.Circle of Stones,Druid.Circle of Stones,0,0
+VSS,Druid,Circle of the City,VSS.Druid,VSS.Druid.Circle of the City,Druid.Circle of the City,0,0
+VSS,Druid,Circle of the Deep,VSS.Druid,VSS.Druid.Circle of the Deep,Druid.Circle of the Deep,0,0
+VSS,Druid,Circle of the Fist,VSS.Druid,VSS.Druid.Circle of the Fist,Druid.Circle of the Fist,0,0
+VSS,Druid,Circle of the Wyrm,VSS.Druid,VSS.Druid.Circle of the Wyrm,Druid.Circle of the Wyrm,0,0
+VSS,Druid,Circle of Vermin,VSS.Druid,VSS.Druid.Circle of Vermin,Druid.Circle of Vermin,0,0
+XGE,Druid,Circle of Dreams,XGE.Druid,XGE.Druid.Circle of Dreams,Druid.Circle of Dreams,0,0
+XGE,Druid,Circle of the Shepherd,XGE.Druid,XGE.Druid.Circle of the Shepherd,Druid.Circle of the Shepherd,0,0
+PHB,Fighter,,PHB.Fighter,PHB.Fighter,Fighter,0,0
+EGW,Fighter,Echo Knight,EGW.Fighter,EGW.Fighter.Echo Knight,Fighter.Echo Knight,0,0
+PHB,Fighter,Battle Master,PHB.Fighter,PHB.Fighter.Battle Master,Fighter.Battle Master,0,0
+PHB,Fighter,Champion,PHB.Fighter,PHB.Fighter.Champion,Fighter.Champion,0,0
+PHB,Fighter,Eldritch Knight,PHB.Fighter,PHB.Fighter.Eldritch Knight,Fighter.Eldritch Knight,0,0
+SCAG,Fighter,Purple Dragon Knight (Banneret),SCAG.Fighter,SCAG.Fighter.Purple Dragon Knight (Banneret),Fighter.Purple Dragon Knight (Banneret),0,0
+TCE,Fighter,Psi Warrior,TCE.Fighter,TCE.Fighter.Psi Warrior,Fighter.Psi Warrior,0,0
+TCE,Fighter,Rune Knight,TCE.Fighter,TCE.Fighter.Rune Knight,Fighter.Rune Knight,0,0
+VSS,Fighter,Bone Knight,VSS.Fighter,VSS.Fighter.Bone Knight,Fighter.Bone Knight,0,0
+VSS,Fighter,Brawler,VSS.Fighter,VSS.Fighter.Brawler,Fighter.Brawler,0,0
+VSS,Fighter,Celestial Lancer,VSS.Fighter,VSS.Fighter.Celestial Lancer,Fighter.Celestial Lancer,0,0
+VSS,Fighter,Corsair,VSS.Fighter,VSS.Fighter.Corsair,Fighter.Corsair,0,0
+VSS,Fighter,Dungeoneer,VSS.Fighter,VSS.Fighter.Dungeoneer,Fighter.Dungeoneer,0,0
+VSS,Fighter,Mage Hand Magus,VSS.Fighter,VSS.Fighter.Mage Hand Magus,Fighter.Mage Hand Magus,0,0
+XGE,Fighter,Arcane Archer,XGE.Fighter,XGE.Fighter.Arcane Archer,Fighter.Arcane Archer,0,0
+XGE,Fighter,Cavalier,XGE.Fighter,XGE.Fighter.Cavalier,Fighter.Cavalier,0,0
+XGE,Fighter,Samurai,XGE.Fighter,XGE.Fighter.Samurai,Fighter.Samurai,0,0
+CR,Fighter,Gunslinger,CR.Fighter,CR.Fighter.Gunslinger,Fighter.Gunslinger,0,0
+VSS,Gunslinger,,VSS.Gunslinger,VSS.Gunslinger,Gunslinger,0,0
+VSS,Gunslinger,Gun Tank,VSS.Gunslinger,VSS.Gunslinger.Gun Tank,Gunslinger.Gun Tank,0,0
+VSS,Gunslinger,Gun-Ko Master,VSS.Gunslinger,VSS.Gunslinger.Gun-Ko Master,Gunslinger.Gun-Ko Master,0,0
+VSS,Gunslinger,High Roller,VSS.Gunslinger,VSS.Gunslinger.High Roller,Gunslinger.High Roller,0,0
+VSS,Gunslinger,Musketeer,VSS.Gunslinger,VSS.Gunslinger.Musketeer,Gunslinger.Musketeer,0,0
+VSS,Gunslinger,Pistolero,VSS.Gunslinger,VSS.Gunslinger.Pistolero,Gunslinger.Pistolero,0,0
+VSS,Gunslinger,Sharpshooter,VSS.Gunslinger,VSS.Gunslinger.Sharpshooter,Gunslinger.Sharpshooter,0,0
+VSS,Gunslinger,Spellslinger,VSS.Gunslinger,VSS.Gunslinger.Spellslinger,Gunslinger.Spellslinger,0,0
+VSS,Gunslinger,Trick Shot,VSS.Gunslinger,VSS.Gunslinger.Trick Shot,Gunslinger.Trick Shot,0,0
