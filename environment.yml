@@ -12,3 +12,11 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - entrypoints
+  - jsonschema
+  - six
+  - typing
+  - ipython
+  - altair>=2.2.0
+  - vega_datasets
+  - jupyterlab>=0.32.0
