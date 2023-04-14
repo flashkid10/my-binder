@@ -10,8 +10,8 @@ dependencies:
   - sqlalchemy
   - squarify
   - plotly
-  - pandasql
-  - sklearn
+  #- pandasql
+  #- sklearn
   #- matplotlib-extra
   #- psutil
   #- toolz
