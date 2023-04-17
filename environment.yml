@@ -2,29 +2,11 @@ name: example-environment
 #channels:
   #- conda-forge
 dependencies:
-  - python=3.11
-  - numpy
-  - matplotlib
-  - pandas
-  #- sqlite3
-  - sqlalchemy
-  - squarify
-  - plotly
-  - itables
-  #- pandasql
-  #- sklearn
-  #- matplotlib-extra
-  #- psutil
-  #- toolz
-  #- dill
-  #- partd
-  #- bokeh
-  #- dask
-  #- entrypoints
-  #- jsonschema
-  #- six
-  #- typing
-  #- ipython
-  #- altair>=2.2.0
-  #- vega_datasets
-  #- jupyterlab>=0.32.0
+  #- python=3.11
+  #- numpy
+  #- matplotlib
+  #- pandas
+  #- sqlalchemy
+  #- squarify
+  #- plotly
+  #- itables
