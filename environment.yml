@@ -10,5 +10,5 @@ dependencies:
   - squarify
   - plotly
   - itables
-  - qgrid
+  #- qgrid
   #- pandasgui
