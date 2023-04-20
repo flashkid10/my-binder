@@ -11,4 +11,4 @@ dependencies:
   - itables
   - python=3.11
   - sqlalchemy
-
+  - qgrid
