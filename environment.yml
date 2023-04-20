@@ -10,7 +10,8 @@ dependencies:
   - itables
   - python=3.11
   - sqlalchemy
-  - qgrid==1.1.1
+  - jupyter nbextension enable --py widgetsnbextension
+  #- qgrid==1.1.1
   #- PandasGUI
   #- tabloo
   #- dtale
