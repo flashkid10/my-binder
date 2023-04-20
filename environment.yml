@@ -36,5 +36,5 @@ dependencies:
   - pyarrow
   - astor
   - typing-extensions
-qtstylish>=0.1.2
-pywin32; platform_system=="Windows"
+  - qtstylish>=0.1.2
+  - pywin32; platform_system=="Windows"
