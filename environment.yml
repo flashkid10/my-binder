@@ -10,10 +10,13 @@ dependencies:
   - itables
   - python=3.11
   - sqlalchemy
-  - @8080labs/qgrid
   #- qgrid==1.1.1
   #- PandasGUI
   #- tabloo
   #- dtale
   - datapane
   - pivottablejs
+  - jupyterlab
+  - qgrid
+  - pandas-datareader>=0.5.0
+  - matplotlib>=2.1.1
