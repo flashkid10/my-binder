@@ -14,7 +14,8 @@ dependencies:
   #- PandasGUI
   #- tabloo
   #- dtale
-  - jupyter_Pandas_GUI
+  #- jupyter_Pandas_GUI
+  - Pandas_ui
   - datapane
   - pivottablejs
   - jupyterlab
