@@ -11,7 +11,7 @@ dependencies:
   - python=3.11
   - sqlalchemy
   - qgrid
-  - PandasGUI
-  - tabloo
+  #- PandasGUI
+  #- tabloo
   - dtale
 
