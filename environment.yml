@@ -10,8 +10,8 @@ dependencies:
   - itables
   - python=3.11
   - sqlalchemy
-  - qgrid
+  #- qgrid
   #- PandasGUI
   #- tabloo
-  - dtale
-
+  #- dtale
+  - datapane 
