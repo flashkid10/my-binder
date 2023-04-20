@@ -6,9 +6,9 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sqlalchemy
   - squarify
   - plotly
   - itables
-  #- qgrid
-  #- pandasgui
+  - python=3.11
+  - sqlalchemy
+
