@@ -1,7 +1,7 @@
 ID,Name,Type,Alignment,Gender,Race,Class Breakdown,Links,Campaign Type
 1,Talia Winters,Inactive,Lawful Good,Female,EEPC.Genasi.Water,PHB.Cleric.Tempest Domain: 5,,Oneshot
 2,Sylla Salvo,Inactive,Lawful Neutral,Female,HGtV.Selkies,HGtV.Rogue.Dreadmask: 1,,PHP Campaign
-3,JD (Jin),Active,Neutral Evil,GN (F),ERLW.Changeling,PHB.Rogue.Arcane Trickster: 7,,Campaign
+3,JD (Jin),Active,Neutral Evil,GN (F),ERLW.Changeling,PHB.Rogue.Arcane Trickster: 8,,Campaign
 4,Short Samurai Jack,Inactive,Neutral Good,Female,PHB.Halfling.Stout,"PHB.Fighter.Battle Master: 5, XGE.Rogue.Swashbuckler: 3",,Oneshot
 5,Grubby the Christmas Elf,Plan,Chaotic Evil,Male,ERLW.Goblin,XGE.Rogue.Scout: 3,,
 6,Lilliana Wickerbloom,Inactive,Neutral Good,Female,MOT.Satyr,PHB.Cleric.Life Domain: 14,,Oneshot
@@ -12,7 +12,7 @@ ID,Name,Type,Alignment,Gender,Race,Class Breakdown,Links,Campaign Type
 11,Amelia Mori,Plan,Chaotic Good,Female,PHB.Human,EGW.Wizard.Chronurgy Magic: 3,,
 12,Dasani Kingsley,Plan,True Neutral,Female,EEPC.Genasi.Water,XGE.Rogue.Swashbuckler: 3,,
 13.1,Miao Mao,Plan,Chaotic Neutral,Female,VSS.Near-Human.Stoneborn,TCE.Ranger.Swarmkeeper: 4,Liadove Evensense,NPC
-14,Tellamac Telk T los,Plan,Lawful Good,Male,TTP.Tortle,PHB.Cleric.Tempest Domain: 5,,
+14,Tellamac Telk Tálos,Plan,Lawful Good,Male,TTP.Tortle,PHB.Cleric.Tempest Domain: 5,,
 15,"Anastasia ""Anya"" Romanov",Plan,Lawful Neutral,Female,VRGR.Dhampir,"VRGR.Warlock.The Undead: 2, EGW.Fighter.Echo Knight: 1",,
 16,Liza Sodoc,Plan,True Neutral,Female,WBtW.Fairy,PHB.Bard.College of Lore: 3,,
 17,Kalvin Clay,Plan,Lawful Good,Male,PHB.Half-Orc,PHB.Fighter.Eldritch Knight: 3,,
@@ -40,7 +40,7 @@ ID,Name,Type,Alignment,Gender,Race,Class Breakdown,Links,Campaign Type
 36.4,Eldove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Warlock: 6,Evensense Family,
 36.5,FightaDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Fighter: 6,Evensense Family,
 36.6,HolyDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Cleric: 6,Evensense Family,
-36.7,PallaDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Paladin: 6,Evensense Family,
+36.7,PallaDove  Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Paladin: 6,Evensense Family,
 36.8,Snekadove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Rogue: 6,Evensense Family,
 36.9,WizaDove Evensense,Plan,Chaotic Neutral,Female,PHB.Half-Elf,PHB.Wizard: 6,Evensense Family,
 37,Quirel Felor,Plan,Lawful Neutral,Female,MTF.Elf.Shadar-kai,TCE.Rogue.Phantom: 16,Liadove Evensense,NPC
@@ -154,3 +154,6 @@ ID,Name,Type,Alignment,Gender,Race,Class Breakdown,Links,Campaign Type
 141,Set-Tikar Abel,Plan,Chaotic Good,Female,VGM.Aasimar.Protector,PHB.Warlock.The Fiend: 3,,
 142,Odella,Plan,Neutral Good,Female,PHB.Human.Variant,"XGE.Sorcerer.Divine Soul: 2, TCE.Cleric.Order Domain: 1",,
 143,Temmie,Plan,Neutral Good,Female,PHB.Human.Variant,"XGE.Sorcerer.Storm Sorcery: 1, PHB.Cleric.Tempest Domain: 2",,
+144,Creza,Plan,Neutral Good,Female,MTF.Tiefling.Glasya,XGE.Barbarian.Path of the Zealot: 3,,
+145,Tier,Plan,Neutral Good,Female,MTF.Tiefling.Zariel,PHB.Rogue.Arcane Trickster: 8,,
+146,Velzes,Plan,Neutral Good,Female,MTF.Tiefling.Dispater,SCAG.Cleric.Arcana Domain: 3,,
